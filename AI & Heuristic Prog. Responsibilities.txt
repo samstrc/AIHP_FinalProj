@@ -1,0 +1,9 @@
+AI & Heuristic Prog. Final Project – Statement of Responsibilities
+
+Sam :
+- Primary Researcher
+- Implementation of the agents and their training
+
+Brooklyn: 
+- Set up of base game
+- Creation of demo 
